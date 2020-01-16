@@ -1,0 +1,13 @@
+{
+    "window.zoomLevel": 0,
+    "yaml.format.enable": true,
+    "[yaml]": {
+        "editor.defaultFormatter": "redhat.vscode-yaml"
+    },
+    "files.eol": "\r\n",
+    "editor.renderWhitespace": "all",
+    "window.title": "${rootName}${separator}${dirty}${activeEditorShort}${separator}${appName}",
+    "extensions.ignoreRecommendations": false,
+    "workbench.editor.enablePreview": false,
+    "workbench.editor.enablePreviewFromQuickOpen": false
+}
