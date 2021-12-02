@@ -11,11 +11,6 @@
         "when": "editorTextFocus && vim.active && vim.use<C-b> && !inDebugRepl && vim.mode != 'Insert'"
     },
     {
-        "key": "alt+j",
-        "command": "extension.vim_escape",
-        "when": "editorTextFocus && vim.active && !inDebugRepl"
-    },
-    {
         "key": "escape",
         "command": "-extension.vim_escape",
         "when": "editorTextFocus && vim.active && !inDebugRepl"
