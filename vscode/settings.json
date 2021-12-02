@@ -1,4 +1,15 @@
 {
+    "vim.insertModeKeyBindings": [
+        {
+            "before": [
+                "j",
+                "j"
+            ],
+            "after": [
+                "<Esc>"
+            ]
+        }
+    ],
     "window.zoomLevel": 0,
     "yaml.format.enable": true,
     "[yaml]": {
