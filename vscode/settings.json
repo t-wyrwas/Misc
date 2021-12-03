@@ -3,7 +3,7 @@
         {
             "before": [
                 "j",
-                "j"
+                "k"
             ],
             "after": [
                 "<Esc>"
